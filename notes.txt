@@ -1,0 +1,7 @@
+pwd - power of directory
+ls - list storage
+touch - create file
+rm - delete file
+rmdir - delete directory
+cp - copy
+mv - move
